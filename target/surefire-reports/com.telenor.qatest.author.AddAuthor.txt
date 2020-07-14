@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.telenor.qatest.author.AddAuthor
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.522 s - in com.telenor.qatest.author.AddAuthor

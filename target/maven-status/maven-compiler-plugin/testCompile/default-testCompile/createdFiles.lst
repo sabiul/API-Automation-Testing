@@ -1,0 +1,10 @@
+com\telenor\qatest\book\GetBookList.class
+com\telenor\qatest\author\GetAuthorList.class
+com\telenor\qatest\author\UpdateAuthorDetails.class
+com\telenor\qatest\base\BaseTest.class
+com\telenor\qatest\book\AddBook.class
+com\telenor\qatest\suite\JunitTestSuite.class
+com\telenor\qatest\author\AddAuthor.class
+com\telenor\qatest\book\UpdateBookDetails.class
+com\telenor\qatest\author\GetSingleAuthorDetails.class
+com\telenor\qatest\book\GetSingleBookDetails.class
